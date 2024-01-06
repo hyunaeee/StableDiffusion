@@ -1,4 +1,3 @@
 # StableDiffusion
-# WebUI
-# face-reconstruction
-# AI
+Web UI
+face-reconstruction
