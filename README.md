@@ -1,4 +1,4 @@
 # StableDiffusion
 Web UI
 face-reconstruction
-prompt ex
+prompt-examples
