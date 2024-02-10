@@ -4,5 +4,5 @@
 /prompt-examples
 /chilloutmix
 /dreambooth
-/roop
+/roop/reactor
 /project-aengdo
