@@ -6,4 +6,4 @@
 /dreambooth
 /roop/reactor
 /project-aengdo
-/3d
+/3d/
