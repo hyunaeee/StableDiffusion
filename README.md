@@ -4,4 +4,3 @@
 /prompt-examples
 /chilloutmix
 /dreambooth
-/roop/reactor
