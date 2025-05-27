@@ -1,7 +1,7 @@
 
 
 # StableDiffusion
-
+2025.5.26 코드 수정 필요
 이 프로젝트는 Stable Diffusion 모델을 활용하여 텍스트 기반 이미지 생성 및 얼굴 복원 기능을 제공하는 Jupyter Notebook 기반의 실험 환경입니다. AUTOMATIC1111 Web UI를 활용한 빠른 이미지 생성, 프롬프트 실험, DreamBooth 기반 모델 파인튜닝 등 다양한 기능을 포함하고 있습니다.
 
 ## 📁 프로젝트 구성
